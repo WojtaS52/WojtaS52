@@ -27,10 +27,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
 
 
-### 🚀 What I'm working on
-- 🏗️ Developing scalable APIs with **ASP.NET Core** and **Entity Framework**.
-- 📊 Creating advanced dashboards and data models using **Power BI** & **DAX**.
-- 🐍 Performing data analysis and processing using **Python**.
 <!--
 **WojtaS52/WojtaS52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
